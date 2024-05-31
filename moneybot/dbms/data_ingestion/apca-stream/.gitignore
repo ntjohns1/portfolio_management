@@ -1,0 +1,11 @@
+lib/
+ignore/
+include/
+.env
+.DS_Store
+.idea
+store/
+*.csv
+*.xslx
+*.cache
+data_ingestion/alpaca/apca-node/node_modules

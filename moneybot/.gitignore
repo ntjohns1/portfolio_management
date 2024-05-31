@@ -1,0 +1,17 @@
+lib/
+ignore/
+include/
+.env
+*.env
+.DS_Store
+.idea
+store/
+moneybot/dbms/store
+*.csv
+*.xslx
+*.cache
+*.pickle
+*.h5
+*.zip
+*.parquette
+node_modules/
