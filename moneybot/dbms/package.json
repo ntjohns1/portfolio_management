@@ -1,0 +1,22 @@
+{
+  "name": "dbms",
+  "version": "1.0.0",
+  "description": "database management for the moneybot system",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntjohns1/portfolio_management.git"
+  },
+  "author": "Nelson Johns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntjohns1/portfolio_management/issues"
+  },
+  "homepage": "https://github.com/ntjohns1/portfolio_management#readme",
+  "dependencies": {
+    "node-gyp": "^10.1.0"
+  }
+}
